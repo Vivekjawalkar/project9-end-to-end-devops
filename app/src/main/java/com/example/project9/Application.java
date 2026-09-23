@@ -17,7 +17,7 @@ public class Application {
 
         @GetMapping("/")
         public String home() {
-            return "Project 9 - Production DevOps Application - Version 1.0";
+            return "Project 9 - Production DevOps Application - Version 2.0";
         }
 
         @GetMapping("/health")
